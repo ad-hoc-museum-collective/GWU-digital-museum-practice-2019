@@ -9,22 +9,21 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: The State of Museum Digital Practice in 2019
+subtitle: A collection of graduate essays and responses
 reading_line:
 short_title:
 
 description:
   one_line:
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+    In Fall 2019, students from *Museums and Digital Technology* at George Washington University will be responsible for creating one 3,000-4,000-word essay** that dives more deeply into a specific research area related to the overall topic. Your essay can synthesize current readings and practice around a broad area, dive deeper into a single technology or case study, or speak more broadly on the theme of digital practice and its impact on the museum.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2019-12-05  # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -32,34 +31,142 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Ad Hoc Museum Collective
+    location: Washington, D.C.
+    url: https://ad-hoc-museum-collective.github.io/
+    logo:
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: The Class of Fall 2019
 
 contributor:
-  - id: jkeller
+  - id: sanderson
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: http://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
-    bio:
+    first_name: Suse
+    last_name: Anderson
+    title: Editor
+    affiliation: George Washington University
+    bio: "Dr. Suse Anderson is Assistant Professor, Museum Studies at [The George Washington University](https://corcoran.gwu.edu/museum-studies) and producer [Museopunks](http://museopunks.org)–the podcast for the progressive museum. A former President of [MCN](http://mcn.edu), Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD from The University of Newcastle, Australia. [Connect on Twitter.](http://twitter.com/shineslike)"
+    url:
+    pic: contributors/suse-anderson.jpg
+  - id: cguinanwiley
+    type: primary
+    first_name: Cristin
+    last_name: Guinan-Wiley
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/CristinGW)"
+    url:
+    pic:
+  - id: jedelman
+    type: primary
+    first_name: Jonathan
+    last_name: Edelman
+    title: Author
+    affiliation: George Washington University
+    bio: "Jonathan Edelman is a masters student at The George Washington University, pursuing a degree in Museum Studies with a focus on exhibition development. Born and raised in Kansas City, Edelman moved to Washington  D.C. in 2016 after completing his undergraduate degree at Clark University. For two years, Edelman served as the Curatorial Assistant for the Film, Oral History, and Record Sound Branch at the U.S. Holocaust Memorial Museum. He currently serves as a researcher for the Eleanor Roosevelt Papers Project and the Capital Jewish Museum. Connect on [Twitter](https://twitter.com/MUlizawithaSEUM) and [Instagram](https://www.instagram.com/jedelgram/)."
+    url:
+    pic:
+  - id: rrosenfeld
+    type: primary
+    first_name: Rachel
+    last_name: Rosenfeld
+    title: Author
+    affiliation: George Washington University
+    bio: "Rachel Rosenfeld is a Masters candidate at The George Washington University’s Museum Studies program focusing in Exhibitions and Visitor Engagement. She is originally from Roanoke, Virginia and earned her Bachelor of Arts in History and Film &amp; Media Studies at the College of William &amp; Mary. She has previously worked at the National Portrait Gallery, National Museum of American History, the National Archives &amp; Records Administration, and the Colonial Williamsburg Foundation. Rachel is passionate about inclusive exhibition development, sparking dialogue between museums and their visitors, and spotlighting the history of American popular culture in museums. [Connect on Twitter.](https://twitter.com/MSTDginger)"
+    url:
+    pic:
+  - id: mmcculla
+    type: primary
+    first_name: Mary
+    last_name: McCulla
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/MaryMcculla)"
+    url:
+    pic:
+  - id: ssmall
+    type: primary
+    first_name: Sheridan
+    last_name: Small
+    title: Author
+    affiliation: George Washington University
+    bio: "Sheridan Small focuses on exhibitions and visitor engagement as a Master's student in George Washington University's Museum Studies program. She is originally from Chicago and has a BA in Anthropology from the University of Pennsylvania. She has worked at the National Museum of American Jewish History and the Penn Museum in Philadelphia, the National Museum of American History in DC, and the Lee-Fendall House Museum in Alexandria. She is currently Education Manager at Dumbarton House, where she strives to increase representation of diverse perspectives through interactive, hands-on programming and design. [Connect on Twitter.](https://twitter.com/SheridanSmall14)"
+    url:
+    pic:
+  - id: ckurtz
+    type: primary
+    first_name: Cynthia
+    last_name: Kurtz
+    title: Author
+    affiliation: George Washington University
+    bio: "Cynthia Kurtz is in her final semester of the Master of Arts in Museums Studies at George Washington University, having previously earned her Bachelor's degree at Tulane University in New Orleans, LA. She has a strong focus on fine arts and the digital preservation thereof, but also enjoys developing thoughtful and impactful exhibitions on a variety of topics. She has previously interned at the National Sporting Museum and Library in Middleburg, VA, under the tutelage of George L. Orhstrom Jr., Head Curator Claudia Pfeiffer. When she isn't studying or working in a museum, Cynthia enjoys riding her beloved horse Saint and building websites for nonprofit organizations. [Connect on Twitter.](https://twitter.com/gerbilinamuseum)"
+    url:
+    pic:
+  - id: apollard
+    type: primary
+    first_name: Amy
+    last_name: Pollard
+    title: Author
+    affiliation: George Washington University
+    bio: "Amy Pollard is a Museum Studies graduate student at George Washington University, concentrating in Exhibitions and Visitor Engagement. Amy completed her Bachelor of Arts in History at Baylor University in Waco, Texas. She currently works as a Visitor Services Assistant at Tudor Place Historic House and Garden in Georgetown, DC. Her interests lie in enhancing the visitor experience and inspiring audiences through education programming. [Connect on Twitter.](https://twitter.com/amy_pollard19)"
+    url:
+    pic:
+  - id: cbrady
+    type: primary
+    first_name: Corrie
+    last_name: Brady
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/museum_freaks)"
+    url:
+    pic:
+  - id: mgarcia
+    type: primary
+    first_name: Melissa
+    last_name: Garcia
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/toadertots)"
+    url:
+    pic:
+  - id: rbrockette
+    type: primary
+    first_name: Rebecca
+    last_name: Brockette
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/rbrockette23)"
+    url:
+    pic:
+  - id: chepner
+    type: primary
+    first_name: Caitlin
+    last_name: Hepner
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/MuseumCait)"
+    url:
+    pic:
+  - id: sthatcher
+    type: primary
+    first_name: Sydney
+    last_name: Thatcher
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/museumophile)"
+    url:
+    pic:
+  - id: ldickson
+    type:  primary
+    first_name: Laura
+    last_name: Dickson
+    title: Author
+    affiliation: George Washington University
+    bio: "[Connect on Twitter.](https://twitter.com/LauraDicksonMEP)"
     url:
     pic:
 
@@ -67,7 +174,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2019
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -96,40 +203,22 @@ resource_link:
     link_relation: alternate
     url: /downloads/output.mobi
   - type: footer-link
+    name: GWU Museum studies
+    link_relation: GWU-museum-studies
+    url: https://corcoran.gwu.edu/museum-studies
+  - type: footer-link
     name: About
     link_relation: about
     url: /about/
-  - type: footer-link
-    name: Privacy Policy
-    link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
 
 # ------------------------------------------------------------------------------
 # Subjects
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "http://vocab.getty.edu/ulan/500007674"
   - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "http://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "http://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "http://vocab.getty.edu/aat/300410245"
+    name: photography,
+
 
 # ------------------------------------------------------------------------------
 # Revision History

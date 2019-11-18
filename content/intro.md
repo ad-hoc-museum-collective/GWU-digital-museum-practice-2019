@@ -1,21 +1,15 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: Teaching Museum Digital Practice in 2019
+subtitle:
 weight: 3
 type: splash
-image: figures/lange-house.jpg
+image:
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+The [*Master of Arts in Museum Studies*](https://corcoran.gwu.edu/museum-studies) program at The George Washington University responds to the evolving museum profession by combining hands-on training with future-focused theoretical engagement.  Students who enrol in the program gain foundational knowledge about the state of museum work today, practical skills and the ability to critically engage with developments in the field.
 
-{{< q-figure id="dog1" class="is-pulled-right" >}}
+In *Museums and Digital Technology*, these goals are met in the form of a syllabus that concurrently gives a broad overview into the issues related to technology in museums today; a deep engagement with a topic of personal or professional interest through a research project; experience in a collaborative creative environment through the peer review process; and practical skills in Markdown language. At the end of the semester, each student has a publication to their name.
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration ([fig. 1](#dog1)). During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](../catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+This project was designed by Assistant Professor Suse Anderson, informed by her experience co-editing several digitally-informed publishing projects, including [*CODE|WORDS Technology and Theory in the Museum*](https://medium.com/code-words-technology-and-theory-in-the-museum), which brought together leading museum thinkers and practitioners to explore the impact of digital technology on the nature of museums, and [*Humanizing the Digital: Unproceedings from the 2018 MCN Confererence*](https://ad-hoc-museum-collective.github.io/humanizing-the-digital/), which responded to the [*MCN annual conference*](http://mcn.edu). Produced in less than four months, *Humanizing the Digital* contains 17 reflections, case studies, conversations, essays, and an experimental in-book zine, from 34 different contributors. It also marks a specific moment in time. Likewise, it is intended that *The State of Museum Digital Practice* series will stand as a marker of each cohort of students and their concerns over time.
 
-{{< q-figure id="dog2" class="is-pulled-left" >}}
-
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm Security Administration (FSA), documenting workers and architecture in the Southeastern states ([fig. 2](#dog2)). In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
-
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
-
-{{< q-figure id="photo-podcast" >}}
+We hope you enjoy this publication, produced by the fall class of 2019.

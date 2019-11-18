@@ -1,20 +1,23 @@
 ---
-title: About
+title: Museum Studies at GWU
 weight: 203
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+The [*Master of Arts in Museum Studies*](https://corcoran.gwu.edu/museum-studies) program at The George Washington University responds to the evolving museum profession by combining hands-on training with future-focused theoretical engagement.  Students gain foundational knowledge about the state of museum work today, practical skills and the ability to critically engage with developments in the field. Our location in the nation’s museum capital offers a unique opportunity to connect to national and global conversations at the cutting edge of museum practice.
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
+Coursework offers both breadth and depth in *Collections Management*, *Museum Management*, *Exhibitions and Visitor Experience*, and *Public Engagement*. Our students come from a range of academic disciplines, from history and anthropology to art history and the natural sciences.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+The MA program of study is flexible so students can personalize their academic experience to help accomplish their own goals. Our 36-credit program can be completed by full-time students in two academic years. Part-time study is also permitted, but the program must be completed in a maximum of four years
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+## Program Requirements
+All students complete:  
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](http://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+- one core course entitled Museum Ethics & Values
+- one internship
+- five (5) courses as required in the selected concentration
+- five (5) electives, which may be drawn from within Museum Studies (including a second internship) or from outside the program. Up to four (4) non-museum studies courses are permitted.
+- a Museum Studies comprehensive exam in their concentration
+- the graduate writing requirement
+- an oral presentation related to their internship
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+Throughout the program, students should work with an advisor to ensure that they will meet program requirements and their own career and educational goals.
