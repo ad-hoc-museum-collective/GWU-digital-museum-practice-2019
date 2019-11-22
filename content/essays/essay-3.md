@@ -72,10 +72,6 @@ One fear is certainly unfounded, that technology like AR amounts to mere gimmick
 
 
 ----------
-*Author Bio*
- ![The author, a woman in a blue sweater, is shown smiling into the camera. She has black glasses and long brown hair.](Sheridan_01.jpg)
-
-Sheridan Small focuses on exhibitions and visitor engagement as a Master's student in George Washington University's Museum Studies program. She is originally from Chicago and has a BA in Anthropology from the University of Pennsylvania. She has worked at the National Museum of American Jewish History and the Penn Museum in Philadelphia, the National Museum of American History in DC, and the Lee-Fendall House Museum in Alexandria. She is currently Education Manager at Dumbarton House, where she strives to increase representation of diverse perspectives through interactive, hands-on programming and design. You can connect with her on Twitter at [@SheridanSmall14.](https://twitter.com/SheridanSmall14)
 
 [^1]: Arielle Pardes, “For Museums, Augmented Reality Is the Next Frontier,” _Wired_, September 21, 2018, accessed September 14, 2019.
 
