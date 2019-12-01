@@ -60,7 +60,7 @@ contributor:
     affiliation: George Washington University
     bio: "[Connect on Twitter.](https://twitter.com/CristinGW)"
     url:
-    pic:
+    pic: contributors/cristin-guinan-wiley.jpg
   - id: jedelman
     type: primary
     first_name: Jonathan
@@ -78,7 +78,7 @@ contributor:
     affiliation: George Washington University
     bio: "Rachel Rosenfeld is a Masters candidate at The George Washington University’s Museum Studies program focusing in Exhibitions and Visitor Engagement. She is originally from Roanoke, Virginia and earned her Bachelor of Arts in History and Film &amp; Media Studies at the College of William &amp; Mary. She has previously worked at the National Portrait Gallery, National Museum of American History, the National Archives &amp; Records Administration, and the Colonial Williamsburg Foundation. Rachel is passionate about inclusive exhibition development, sparking dialogue between museums and their visitors, and spotlighting the history of American popular culture in museums. [Connect on Twitter.](https://twitter.com/MSTDginger)"
     url:
-    pic:
+    pic: contributors/rachel-rosenfeld.jpg
   - id: mmcculla
     type: primary
     first_name: Mary
@@ -87,7 +87,7 @@ contributor:
     affiliation: George Washington University
     bio: "[Connect on Twitter.](https://twitter.com/MaryMcculla)"
     url:
-    pic:
+    pic: contributors/mary-mcculla.jpg
   - id: ssmall
     type: primary
     first_name: Sheridan
@@ -132,7 +132,7 @@ contributor:
     affiliation: George Washington University
     bio: "[Connect on Twitter.](https://twitter.com/toadertots)"
     url:
-    pic:
+    pic: contributors/melissa-garcia.jpg
   - id: rbrockette
     type: primary
     first_name: Rebecca
@@ -154,16 +154,19 @@ contributor:
     Instagram: [@caitlin.hepner](https://www.instagram.com/caitlin.hepner/)
     Twitter: [@MuseumCait](https://twitter.com/MuseumCait)"
     url:
-    pic:
+    pic: contributors/caitlin-hepner.jpg
   - id: sthatcher
     type: primary
     first_name: Sydney
     last_name: Thatcher
     title: Author
     affiliation: George Washington University
-    bio: "[Connect on Twitter.](https://twitter.com/museumophile)"
+    bio: "Sydney Thatcher has a BA in Archaeology and Classical Studies from GWU and is pursuing a Master’s in Museum Studies at GWU with a concentration in exhibitions and visitor engagement. Sydney has grown up visiting and loving museums and uses this passion to make memorable moments for visitors in exhibitions, public programs, and informal classrooms.
+
+    Email [Sydney](mailto:selthatcher@gmail.com)
+    Twitter [@museumophile](https://twitter.com/museumophile)"
     url:
-    pic:
+    pic: contributors/sydney-thatcher.jpg
   - id: ldickson
     type:  primary
     first_name: Laura
