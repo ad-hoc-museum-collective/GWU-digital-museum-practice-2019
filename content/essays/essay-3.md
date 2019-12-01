@@ -69,9 +69,8 @@ Although AR has been around since the 1990s, its potential and pitfalls for cult
 
 One fear is certainly unfounded, that technology like AR amounts to mere gimmickry and will turn the museum into an amusement park. People had similar fears about radio broadcast technology when it was introduced in 1952 to provide an alternative to docent-guided tours. Audio tours turned out to be one of the most transformative technologies for museums in the twentieth century, but one that is taken for granted today.[^54] Over the past century, museums have dealt with the rise of new technologies by incorporating some of them in helpful and creative ways. Today, we live in a world dominated by digital technology. Smart systems control our homes, we depend on our phones for work, pleasure, health, and communication. Most institutions, from schools and businesses to hospitals and banks, have incorporated digital technology into the ways they are used by constituents. Paola Antonelli, a curator at MoMA said, “We live not in the digital, not in the physical, but in the kind of minestrone that our mind makes of the two.” Museums have an important role in helping people explore and understand the emerging hybrid culture.[^55] Yet even museums cannot predict what the future will bring. Museums must flexibly adapt to a constantly changing world. Part of that means teaching the public about new technologies, but another part involves keeping the public engaged with effective learning methods that generate participation, critical thinking skills, and unique experiences, whether low-tech or high-tech.
 
-
-
 ----------
+## Notes
 
 [^1]: Arielle Pardes, “For Museums, Augmented Reality Is the Next Frontier,” _Wired_, September 21, 2018, accessed September 14, 2019.
 
