@@ -20,9 +20,7 @@ Color is a large and complex phenomenon, so much so that it has its own branch i
 
 Light travels as a wave through space. The wave can be wide or narrow, tall or shallow, and can oscillate slowly or quickly. Each of these traits is measurable and dictates how the wave of light will interact with matter it encounters.
 
-{{< q-figure src="CKurtz_Wave_Animation.gif" alt="" caption="" >}}
-
-{{< q-figure src="CKurtz_Wave_Animation.gif" alt="Animation of a transverse wave oscillating on the x-axis." caption= "" >}}
+{{< q-figure src="CKurtz_Wave_Animation.gif" alt="Animation of a transverse wave oscillating on the x-axis." caption= "[Image Source](https://commons.wikimedia.org/wiki/File:1D-Wave.gif)" >}}
 
 Wavelength is a measure of the distance between two wave crests. This is the most important measurement when working with color, as each specific wavelength corresponds to a single color within the visible region of the spectrum. Wavelength can vary from less than 10^-12^ meters to over 1,000 meters; the visible region, or that which the typical human eye can perceive, is widely considered to be from 380–740 nanometers.[^1] Within this range color progresses from violet to red as wavelength increases.
 
@@ -120,33 +118,7 @@ Inaccurate digital versions of real-life works of art can have lasting consequen
 
 
 
-## Works Cited
-
-Bhattacharjee, Amrita, and Pal, Swati. “Effect of Color Temperature on Appearance of Paintings Exhibited Under LED Lighting.” Color Research & Application 44, no. 5 (October 2019): 762–771.
-
-Briggs, David. “Saturation.” The Dimensions of Colour, January 30, 2017. http://www.huevaluechroma.com/017.php.
-
-Catt, Dan. “Exploring the M Collections through Colour.” Medium. M Labs, September 26, 2019. https://medium.com/mpluslabs/exploring-the-m-collections-through-colour-84638b4764b6.
-
-Gert, Joshua. “Color Constancy, Complexity, and Counterfactual.” Noûs 44, no. 4 (2010): 669–90. https://doi.org/10.1111/j.1468-0068.2010.00753.x.
-
-Hadhazy, Adam. “What Are the Limits of Human Vision?” BBC Future. BBC, July 27, 2015. https://www.bbc.com/future/article/20150727-what-are-the-limits-of-human-vision.
-
-Interview with Claudia Pfeiffer, George L. Ohrstrom, Jr. Head Curator at The National Sporting Museum and Library in Middleburg, VA. Interview by author. October 26, 2019 and November 11, 2019.
-
-King, Julie. *Digital Photography for Dummies, 8th Edition*. Hoboken, NJ: John Wiley & Sons, Inc., 2016.
-
-Martonik, Andrew. “Google Pixel 2 XL Adds New Display Profiles, UI Changes to Address Burn-In.” Android Central, November 7, 2017. https://www.androidcentral.com/pixel-2-xl-adds-boosted-and-saturated-display-profiles-latest-update.
-
-Robson, David. “The Women with Superhuman Vision.” BBC Future. BBC, September 5, 2014. https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision.
-
-Stierch, Sarah. “Yellow Milkmaid Syndrome.” Tumblr, March 14, 2017. https://yellowmilkmaidsyndrome.tumblr.com/.
-
-“The Yellow Milkmaid Syndrome - Paintings with Identity Problems.” Europeana Pro, January 7, 2015. https://pro.europeana.eu/post/the-yellow-milkmaid-syndrome-paintings-with-identity-problems.
-
-Verwayen, Harry, Martijn Arnoldus, and Peter B. Kaufman. “Europeana Whitepaper No. 2: The Problem of the Yellow Milkmaid.” Europeana Pro, November 2011. https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf.
-
-Wright, Richard. “Issues of Scale and Storage in Digital Preservation.” In *Multimedia Information Extraction and Digital Heritage Preservation*, 361–80. Singapore: World Scientific Publishing Co Pte Ltd, 2011. https://ebookcentral.proquest.com/lib/gwu/detail.action?docID=840599.
+## Notes
 
 [^1]:1 nanometer is 10^-9^ meters. For comparison, the smallest length the human eye can detect is 10^-4^ meters, which is five times larger. Hadhazy, Adam. “What Are the Limits of Human Vision?” BBC Future. BBC, July 27, 2015. https://www.bbc.com/future/article/20150727-what-are-the-limits-of-human-vision.
 [^2]: Briggs, David. “Saturation.” The Dimensions of Colour, January 30, 2017. http://www.huevaluechroma.com/017.php.
