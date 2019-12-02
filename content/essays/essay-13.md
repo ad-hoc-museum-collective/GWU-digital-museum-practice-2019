@@ -1,8 +1,8 @@
 ---
-label: XIII
+label: XII
 title: Examining Biases in GLAM Data and Metadata
 subtitle:
-weight: 42
+weight: 41
 type: essay
 class:
 contributor:

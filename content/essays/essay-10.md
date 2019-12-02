@@ -50,7 +50,7 @@ If capturing colors in a photograph can be considered as capturing light, contai
 
 The light should be as unsaturated as possible to allow for the most truthful reflections of the pigments present in the artwork, as color temperature can affect how the camera, and thus the future viewer, will perceive the work of art.[^6] Humans are able to adjust for differences in color temperature when viewing an object in person but cameras lack this problem-solving ability, making it imperative that light sources used in photography be as ideal as possible.
 
-{{< q-figure src="cynthia-horse.jpg" alt="Photos of a horse taken in cool, neutral, and warm temperatures light settings" caption= "The same horse was photographed in three different light settings. From left: flourescent (cool), direct sun (cool-neutral), and halogen (warm). The color observed in each scenario varies widely." >}}
+{{< q-figure src="cynthia-horse.jpg" alt="Photos of a horse taken in cool, neutral, and warm temperatures light settings" caption="The same horse was photographed in three different light settings. From left: flourescent (cool), direct sun (cool-neutral), and halogen (warm). The color observed in each scenario varies widely." >}}
 
 The first consideration must be any sources of natural sunlight, which must be blocked wherever possible. The earth’s atmosphere is most effective at filtering out longer wavelengths of visible light, such as reds and yellows. This causes sunlight to be more saturated in blue wavelengths, giving it a bluish tinge. Changes in atmospheric conditions due to weather or time of day can lead to fluctuations that can be hard to account for and counteract, especially in post-production editing.
 

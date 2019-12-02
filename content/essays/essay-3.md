@@ -1,8 +1,8 @@
 ---
-label: III
+label: VIII
 title: All Fun and Games? The Educational Value of Augmented Reality in Museum Exhibitions
 subtitle:
-weight: 32
+weight: 37
 type: essay
 class:
 contributor:

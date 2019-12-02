@@ -1,8 +1,8 @@
 ---
-label: IV
+label: III 
 title: "#MuseumCrisis"
 subtitle: Social Media in Museum Crisis Communications Plans
-weight: 33
+weight: 32
 type: essay
 class:
 contributor:

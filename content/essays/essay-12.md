@@ -1,8 +1,8 @@
 ---
-label: XII
+label: XI
 title: Digitizing Cultural Heritage Sites
 subtitle: Historical Context, Current Realities and Future Possibilities
-weight: 41
+weight: 40
 type: essay
 class:
 contributor:

@@ -1,8 +1,8 @@
 ---
-label: VIII
+label: IX
 title: VR and the Role it Plays in Museums
 subtitle:
-weight: 37
+weight: 38
 type: essay
 class:
 contributor:

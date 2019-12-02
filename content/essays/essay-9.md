@@ -1,8 +1,8 @@
 ---
-label: IX
+label: IV
 title: Selfies Worth Saving?
 subtitle: Social Media Collecting in Museums
-weight: 38
+weight: 34
 type: essay
 class:
 contributor:

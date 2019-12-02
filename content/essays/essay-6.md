@@ -2,7 +2,7 @@
 label: VI
 title: Bienvenidos
 subtitle: Multilingual Technology in D.C. Museums
-weight: 35
+weight: 36  
 type: essay
 class:
 contributor:
