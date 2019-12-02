@@ -20,6 +20,8 @@ Color is a large and complex phenomenon, so much so that it has its own branch i
 
 Light travels as a wave through space. The wave can be wide or narrow, tall or shallow, and can oscillate slowly or quickly. Each of these traits is measurable and dictates how the wave of light will interact with matter it encounters.
 
+{{< q-figure src="CKurtz_Wave_Animation.gif" alt="Animation of a transverse wave oscillating on the x-axis." caption="[Image Source](https://commons.wikimedia.org/wiki/File:1D-Wave.gif)" >}}
+
 <p><a href="https://commons.wikimedia.org/wiki/File:1D-Wave.gif#/media/File:1D-Wave.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/1D-Wave.gif" alt="1D-Wave.gif"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:And1mu&amp;action=edit&amp;redlink=1" class="new" title="User:And1mu (page does not exist)">And1mu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47889079">Link</a></p>
 
 Wavelength is a measure of the distance between two wave crests. This is the most important measurement when working with color, as each specific wavelength corresponds to a single color within the visible region of the spectrum. Wavelength can vary from less than 10^-12^ meters to over 1,000 meters; the visible region, or that which the typical human eye can perceive, is widely considered to be from 380–740 nanometers.[^1] Within this range color progresses from violet to red as wavelength increases.

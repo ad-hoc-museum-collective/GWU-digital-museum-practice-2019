@@ -1,5 +1,5 @@
 ---
-label: III 
+label: III
 title: "#MuseumCrisis"
 subtitle: Social Media in Museum Crisis Communications Plans
 weight: 32
@@ -34,6 +34,8 @@ In the pre-crisis phase, preparation and planning are important to successfully 
 During the planning meeting with the above staff members, this group must identify the museum’s various stakeholders. Understanding stakeholders and their communication needs is the first step in crafting a plan for crisis response.[^8]  For example, most internal stakeholders will need to be informed of the crisis situation via email or telephone independently of social media, website posts, or news sources. During this planning meeting, the team needs to determine notification systems for internal stakeholders.[^9]  Deeply invested internal stakeholders can help with shaping the message, but in order to do so, they must be kept informed of the situation, as well as plans for navigating the crisis.[^10]
 
 An institution’s external stakeholders will most likely be comprised of several smaller stakeholder groups, each of whom may use social media platforms differently, depending on demographics. There are many factors that shape an individual’s social media use, including age, “race”/ethnicity, education, economic status and cultural background. However, user age often suggests platform preference. According to the PEW Research Center breakdown of social media usage by age demographic, 55 percent of adults ages 50 and older use Facebook and 56 percent use Youtube. However, only 16 percent of this age group use Instagram and 14 percent use Twitter.[^11]  On the other end of the age demographic spectrum, the PEW Research Center found that 80 percent of adults ages 18-24 use Facebook, 71 percent of this age group are on Instagram, and 45 percent of this age group are on Twitter. Based on these figures, social media communications via Facebook are more likely to reach a wider variety of age groups, whereas communications via Instagram and Twitter will reach mostly younger social media users under 50 years of age. It is in the best interest of the planning committee to make a comprehensive plan for each social media platform utilized by the museum, with the intention of communicating crisis messaging to a broader range of external stakeholders.[^12]
+
+{{< q-figure src="amy-01.jpg" alt="" caption="Figure 1: [Pew Research Center’s graph for social media platform usage by age group](https://www.pewresearch.org/internet/2018/03/01/social-media-use-in-2018/pi_2018-03-01_social-media_0-02). The vertical axis indicates the social media platform, and the horizontal axis indicates percentage of usage." >}}
 
 <a href="https://www.pewresearch.org/internet/2018/03/01/social-media-use-in-2018/pi_2018-03-01_social-media_0-02/"><img src="https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2018/02/PI_2018.03.01_Social-Media_0-02.png?w=415"></a>
 

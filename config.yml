@@ -35,7 +35,7 @@ params:
   licenseIcons: true
   pageLabelDivider: ". "
   citationPageLocationDivider: ", "
-  displayBiblioShort: true
+  displayBiblioShort: false
   imageDir: "img"
   tocType: full
   menuType: full
