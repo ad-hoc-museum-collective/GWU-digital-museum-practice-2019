@@ -85,7 +85,7 @@ contributor:
     last_name: McCulla
     title: Author
     affiliation: George Washington University
-    bio: "[Connect on Twitter.](https://twitter.com/MaryMcculla)"
+    bio: "Mary McCulla is a Masters candidate at George Washington University’s Museum Studies program focusing in Exhibitions and Visitor Engagement. A Virginia native, Mary graduated from the College of William & Mary with a degree in Classical Archaeology. Currently, she is a project assistant with the Smithsonian Institution Traveling Exhibition Service (SITES), and she has previously worked at George Washington’s Mount Vernon, Grey Towers National Historic Site, and the Virginia Museum of Fine Art, among others. Prioritizing diverse storytelling, intentional engagement, and universal accessibility, Mary strives to create exhibitions that will fascinate and inspire audiences. [Connect on Twitter](https://twitter.com/MaryMcculla) or via [email](mailto:mkmcculla@gmail.com)."
     url:
     pic: contributors/mary-mcculla.jpg
   - id: ssmall
@@ -142,7 +142,7 @@ contributor:
     bio: "Rebecca Brockette is currently a first year graduate student at the George Washington University in the Museum Studies Program. She earned her undergraduate degree at the University of North Texas in history and anthropology.
 [Twitter](https://twitter.com/rbrockette23) | [Email](mailto:beckybrockette@gmail.com)"
     url:
-    pic:
+    pic: contributors/rebecca-brockette.jpg
   - id: chepner
     type: primary
     first_name: Caitlin
