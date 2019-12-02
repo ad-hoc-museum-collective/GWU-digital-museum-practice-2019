@@ -11,7 +11,7 @@ abstract: |
 
 ---
 
-*I owe an incredible debt of gratitude to Patrick Bond for assisting me with the technical aspects of this paper. Likewise, I believe it is important to situate my own perspective and background as a cis-het white woman from a large amount of privilege as it is only by acknowledging our own biases that we can begin to look beyond them.*
+**I owe an incredible debt of gratitude to Patrick Bond for assisting me with the technical aspects of this paper. Likewise, I believe it is important to situate my own perspective and background as a cis-het white woman from a large amount of privilege as it is only by acknowledging our own biases that we can begin to look beyond them.**
 
 
 Within the world of Galleries, Libraries, Archives, and Museums there are seemingly endless individual objects and each of these objects need to be classified, categorized, and tagged. Constructing these classifications, categories, and tags creates order out of what would otherwise be chaos, gives objects physical and temporal context, and allows for relationships between objects to be seen. However, creating the standards that govern these classifications, categories, and tags is highly subjective and can reflect the biases of the people or culture that is creating them.[^2] Many GLAM institutions have made their collections and the data associated with their collections open access so it is possible for external personnel to evaluate what biases may exist within the metadata itself and also what biases may exist in individual institutions and across the GLAM community by looking at data across institutions. The purpose of this paper is to examine how bias can be revealed in GLAM data and metadata.
@@ -24,17 +24,21 @@ Prior to exploring the impact of metadata, the first step is to lay out a genera
 
 Museum metadata are almost entirely created by human activity, though there are current projects that are working towards an automated process.[^11] There are also an array of metadata standards and of controlled vocabularies used in GLAM institutions some of which are specialized for certain collections.[^12] However, within museums, metadata can be broadly divided up into five basic groups:
 
-{{< q-figure src="Table-1-CGW.jpg" alt="" caption="Table 1.  Adapted from “Introduction to Metadata” Edited by Murtha Baca." >}}
+| Type | Function |
+|:---:|:---:|
+Administrative |Acquisition number, location, rights tracking, legal issues with access.
+Descriptive | Author/creator, dates, materials, relationships with other collection objects, curatorial notes and essays.
+Preservation | Physical condition of the object and if it has changed over time, any actions that have been performed to extend the life of the object both in its physical and digital form (eg. data migration)
+Technical | Digitization information (formats, compression, scaling), required hardware and software, digital security measures
+Use | Exhibition data, user use of the object, rights and reproduction information, reuse of the object and versioning data.
 
-Table 1.  Adapted from “Introduction to Metadata” Edited by Murtha Baca[^13]
+Table 1.  Adapted from “Introduction to Metadata” Edited by Murtha Baca [^13]
 
 ### How metadata can contain and show bias
 
 The most easily seen way that metadata can perpetuate bias is through a use of language (controlled vocabulary) that is biased, especially in subject headings and tagging. One example of this is a project at the University of Alberta whose purpose is “ To investigate, define and propose a plan of action for how the University of Alberta Libraries can more accurately, appropriately, and respectfully represent Indigenous peoples and contexts through our descriptive metadata practices.”[^14] A project that they are using to look at their own metadata is the Manitoba Archival Information Network’s (MAIN) project to change Library of Congress Subject Headings (LCSH) in cases where the current subject headings (tags) are insensitive to the Indigenous Peoples in Manitoba and add additional subject headings that are more specific and reflective of the Indigenous culture.[^15] The vast majority of the changes consisted of taking every instance of ‘Indian’ and replacing it with “Indigenous”:
 
-IMAGE 1
-alt text:Selection from changes tab of the  MAIN Spreadsheet
-Caption: Image 1. Screen shot of the changes tab in the MAIN spreadsheet.
+{{< q-figure src="Image-1-CGW.png" alt="alt text:Selection from changes tab of the  MAIN Spreadsheet" caption="Screen shot of the changes tab in the MAIN spreadsheet." >}}
 
 The subject heading issues surrounding Indigenous collections are fairly blatant however, there are other situations where the issue is not as cut and dry as changing the language but instead about how to give the desired weight to different objects that have the same tag. One such circumstance is another project out of the University of Manitoba, The Digital Archives and Marginalized Communities Project (DAMC)[^16] which is a project that is developing three different but interrelated archives. One of these archives in development is the Sex Work Database (SWD). In their paper “Tagging for activist ends and strategic ephemerality: creating the Sex Work Database as an activist digital archive” Shawna Ferris and Danielle Allard discuss the community-produced controlled vocabulary and how they “are developing a tagging system that is designed to draw records into conversation with one another in ways that privilege sex worker activist messaging”.[^17] The example they discuss is for the tag “prostitute” which when searched or clicked on would bring results not only from the mainstream media, which tends to dehumanize sex workers[^18], but also works from the point of view of sex workers.[^19]
 
@@ -48,7 +52,20 @@ There are two excellent sources I am aware of for locating open access data from
 
 An example would be the SherlockNet data set developed by Luda Zhao, Brian Do, and Karen Wang for their project for the British Library Labs Competition: “Using Convolutional Neural Networks to Explore Over 400 Years of Book Illustrations”.[^23] In the most simple of terms they trained a machine in the tags they wanted it to use and then had it tag and caption the 1 million images in the British Library 1M Collection which consists of scans of book illustrations from 1500 to 1900.  The CSV file (sherlocknet_tags_verbose) that came out of this project has the following columns of data: image_idx; flickr_id; tag; size; scannnumber; imageorder; title; author; vol; pubplace; sysnum; date; filename.  An example of one of the images in an inverted format for ease of reading is:
 
-TABLE 2
+Field | Data
+----| ----
+image_idx |28
+flickr_id |11219063183
+tag |people
+size |m
+scannumber |46
+imageorder|1
+title| Songes and Sonettes
+author|HOWARD, Henry Earl of Surrey
+vol |0
+sysnum|1746417
+date |1567
+filename|001746417_0_000046_1_
 Table 2.  Example of the data from the SherlockNet CSV file
 
 For this format to be efficient the metadata tends to be limited to attributes that all the objects in the data file share. Metadata elements which only a belong to a subset of the objects under consideration result in lots of empty cells and cumbersome spreadsheets. Consequently, the simple structure can be limiting. However, spreadsheets tend to be well understood and for most non-technical people, these data are easy to work with. In the case of this object all of the tags generated by sherlocknet can be seen on its flicker page.[^24]
@@ -56,14 +73,144 @@ For this format to be efficient the metadata tends to be limited to attributes t
 JSON files have a richer and more complex structure. The objects are described in JAVA Script which allows each object to have attributes (metadata) not shared by similar objects while avoiding the inefficiencies of the spreadsheet’s many blank cells. However, while this format is human readable, the entries tend to be very lengthy and are only easily interpreted through the use of a customized application. For example, consider the spreadsheet style data (CSV) for a given artwork.  For this example, I am using the Tate object file as it was the one I spent the most time with.
 
 
-TABLE 3
-Table 3. Example of the data from the Tate CVS object file
+Field | Data
+---|---
+id |1037
+accession_number |A00003
+artist |Blake, Robert
+artistRole |artist
+artistId |38
+title |The Preaching of Warning. Verso: An Old Man Enthroned Between Two Groups of Figures, by ?William Blake
+dateText |?c.1785
+medium |Graphite on paper. Verso: graphite on paper
+creditLine|Presented by Mrs John Richmond 1922
+year|1785
+acquisitionYear|1922
+dimensions|support: 343 x 467 mm
+width| 343
+height |467
+depth |
+units| mm
+inscription |
+thumbnailCopyright |
+thumbnailUrl |http://www.tate.org.uk/art/images/work/A/A00/A00003_8.jpg
+url |http://www.tate.org.uk/art/artworks/blake-the-preaching-of-warning-verso-an-old-man-enthroned-between-two-groups-of-figures-by-a00003
+
+Table 3. Example of the data from the Tate CSV object file
 
 Now consider the corresponding JSON entry:
 
 
-JAVASCRIPT IMAGE
-Image 2.  Example of the data from the Tate JSON object file
+```Javascript
+{
+
+"acno": "A00003",
+"acquisitionYear": 1922,
+"all_artists": "Robert Blake",
+"catalogueGroup": {},
+"classification": "on paper, unique",
+"contributorCount": 1,
+"contributors": [
+ {
+  "birthYear": 1762,
+  "date": "1762\u20131787",
+  "displayOrder": 1,
+  "fc": "Robert Blake",
+  "gender": "Male",
+  "id": 38,
+  "mda": "Blake, Robert",
+  "role": "artist",
+  "startLetter": "B"
+ }
+],
+ "creditLine": "Presented by Mrs John Richmond    1922",
+ "dateRange": {
+ "endYear": 1785,
+ "startYear": 1785,
+ "text": "?c.1785"
+},
+ "dateText": "?c.1785",
+ "depth": "",
+ "dimensions": "support: 343 x 467 mm",
+ "foreignTitle": null,
+ "groupTitle": null,
+ "height": "467",
+ "id": 1037,
+ "inscription": null,
+ "medium": "Graphite on paper. Verso: graphite on paper",
+ "movementCount": 0,
+ "subjectCount": 5,
+ "subjects": {
+ "children": [
+  {
+   "children": [
+    {
+     "children": [
+      {
+       "id": 1050,
+       "name": "arm/arms raised"
+      },
+     {
+      "id": 270,
+      "name": "standing"
+     }
+    ],
+    "id": 92,
+    "name": "actions: postures and motions"
+   },
+   {
+    "children": [
+     {
+      "id": 799,
+      "name": "group"
+     }
+    ],
+    "id": 97,
+    "name": "groups"
+    },
+    {
+     "children": [
+      {
+       "id": 195,
+       "name": "man"
+      }
+     ],
+     "id": 95,
+     "name": "adults"
+     }
+    ],
+    "id": 91,
+    "name": "people"
+   },
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "id": 12297,
+        "name": "preaching"
+       }
+      ],
+      "id": 120,
+      "name": "religious"
+     }
+    ],
+    "id": 116,
+    "name": "work and occupations"
+   }
+  ],
+  "id": 1,
+  "name": "subject"
+ },
+ "thumbnailCopyright": null,
+ "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00003_8.jpg",
+ "title": "The Preaching of Warning. Verso: An Old Man Enthroned between Two Groups of Figures, by ?William Blake",
+ "title": "The Preaching of Warning. Verso: An Old Man Enthroned Between Two Groups of Figures, by ?William Blake",
+ "units": "mm",
+ "url": "http://www.tate.org.uk/art/artworks/blake-the-preaching-of-warning-verso-an-old-man-enthroned-between-two-groups-of-figures-by-a00003",
+ "width": "343"
+}
+```
 
 As you can see, this is far more difficult to read and not as easily understood. However, while it contains the same metadata elements that appear in the columns of the CSV spreadsheets, it also contains additional “descriptive” elements. In this case there are also fields that describe actions associated with the artwork with values such as: “actions: postures and motions"; "hand/hands raised"; "standing"; "looking / watching".
 
@@ -79,7 +226,15 @@ GRAPH 1
 Graph 1. Percentage of Acquisitions by the Tate of art by female artists for 25 year periods
 
 
-TABLE 4
+Period |Date Range  | Total  Acquisitions| by male  artists| by female artists|% by female artists
+|---|---|---|---|---|---
+1[^30]|1823-1864|38111[^31]|38111|0|0.000%
+2|1864-1888|1257|1256|1|0.079%
+3|1889-1913|916|910|6|0.651%
+4|1914-1938|1787|1715|72|3.873%
+5|1939-1963|1540|1403|137|8.169%
+6|1964-1988|11019|10277|742|6.309%
+7|1989-2013|11101|9334|1767|13.732%
 Table 4. Data in Graph 1
 
 According to the data in the object file, the year of the Tate’s first acquisition was 1823. The first object created by a female artist in the file is listed as being acquisitioned in 1868[^30], and the second not until 1890. However, the data and graphic above does show a marked increase in the percentage of objects created by female artists especially in the last 25 years. From the original acquisitions to the last 25 year period, the percentage of objects created by female artist increase from 0.000% to 13.732%.[^31]
