@@ -42,7 +42,7 @@ Each cone cell is specially configured to react to a specific range of light wav
 
 The goal then, in order to give the viewer of a digitized work of art the most truthful experience, is to have the waves of light emitted from the digital projection, most likely on a computer screen or other similar device, exactly match those that would be reflecting off the original work of art into the viewer’s eye.
 
-{{< q-figure src="CKurtz_eye_with_retina.jpg" alt="Diagram of light entering a human eye and triggering responses in cone and rod cells on the retina" caption= [Image Source](https://askabiologist.asu.edu/rods-and-cones)}}
+{{< q-figure src="CKurtz_eye_with_retina.jpg" alt="Diagram of light entering a human eye and triggering responses in cone and rod cells on the retina" caption="[Image Source](https://askabiologist.asu.edu/rods-and-cones)" >}}
 
 ### Lights: how to improve color
 
@@ -118,23 +118,42 @@ Inaccurate digital versions of real-life works of art can have lasting consequen
 
 ## Notes
 
-[^1]:1 nanometer is 10^-9^ meters. For comparison, the smallest length the human eye can detect is 10^-4^ meters, which is five times larger. Hadhazy, Adam. “What Are the Limits of Human Vision?” BBC Future. BBC, July 27, 2015. https://www.bbc.com/future/article/20150727-what-are-the-limits-of-human-vision.
+[^1]: 1 nanometer is 10^-9^ meters. For comparison, the smallest length the human eye can detect is 10^-4^ meters, which is five times larger. Hadhazy, Adam. “What Are the Limits of Human Vision?” BBC Future. BBC, July 27, 2015. https://www.bbc.com/future/article/20150727-what-are-the-limits-of-human-vision.
+
 [^2]: Briggs, David. “Saturation.” The Dimensions of Colour, January 30, 2017. http://www.huevaluechroma.com/017.php.
+
 [^3]: King, Julie. *Digital Photography for Dummies, 8th Edition*. Hoboken, NJ: John Wiley & Sons, Inc., 2016, p. 162-64
-[^4]:Hadhazy, Limits of Human Vision.
+
+[^4]: Hadhazy, Limits of Human Vision.
+
 [^5]: Robson, David. “The Women with Superhuman Vision.” BBC Future. BBC, September 5, 2014. https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision.
+
 [^6]: Bhattacharjee, Amrita, and Pal, Swati. “Effect of Color Temperature on Appearance of Paintings Exhibited Under LED Lighting.” Color Research & Application 44, no. 5 (October 2019): 762–771.
-[^7]:King, *Digital Photography*, p. 26
-[^8]:Interview with Claudia Pfeiffer, George L. Ohrstrom, Jr. Head Curator at The National Sporting Museum and Library in Middleburg, VA. Interview by author. November 11, 2019.
-[^9]:King, *Digital Photography*, 110-14, 118-20.
-[^10]:Ibid., p. 114-17
-[^11]:Interview with Claudia Pfeiffer, November 11, 2019
-[^12]:Ibid.
-[^13]:“Photoshop apps - desktop, mobile, and tablet.” Adobe. Accessed November 12, 2019. https://www.photoshop.com/.
-[^14]:GIMP. Accessed November 12, 2019. https://www.gimp.org/.
-[^15]:Wright, Richard. “Issues of Scale and Storage in Digital Preservation.” In *Multimedia Information Extraction and Digital Heritage Preservation*, 361–80. Singapore: World Scientific Publishing Co Pte Ltd, 2011. https://ebookcentral.proquest.com/lib/gwu/detail.action?docID=840599, p. 363-367
+
+[^7]: King, *Digital Photography*, p. 26
+
+[^8]: Interview with Claudia Pfeiffer, George L. Ohrstrom, Jr. Head Curator at The National Sporting Museum and Library in Middleburg, VA. Interview by author. November 11, 2019.
+
+[^9]: King, *Digital Photography*, 110-14, 118-20.
+
+[^10]: Ibid., p. 114-17
+
+[^11]: Interview with Claudia Pfeiffer, November 11, 2019
+
+[^12]: Ibid.
+
+[^13]: “Photoshop apps - desktop, mobile, and tablet.” Adobe. Accessed November 12, 2019. https://www.photoshop.com/.
+
+[^14]: GIMP. Accessed November 12, 2019. https://www.gimp.org/.
+
+[^15]: Wright, Richard. “Issues of Scale and Storage in Digital Preservation.” In *Multimedia Information Extraction and Digital Heritage Preservation*, 361–80. Singapore: World Scientific Publishing Co Pte Ltd, 2011. https://ebookcentral.proquest.com/lib/gwu/detail.action?docID=840599, p. 363-367
+
 [^16]: King, *Digital Photography*, p. 20, 168-69
+
 [^17]: Wright, “Issues of Scale and Storage,” p. 373-74.
-[^18]:Martonik, Andrew. “Google Pixel 2 XL Adds New Display Profiles, UI Changes to Address Burn-In.” Android Central, November 7, 2017. https://www.androidcentral.com/pixel-2-xl-adds-boosted-and-saturated-display-profiles-latest-update.
-[^19]:Verwayen, Harry, Martijn Arnoldus, and Peter B. Kaufman. “Europeana Whitepaper No. 2: The Problem of the Yellow Milkmaid.” Europeana Pro, November 2011. https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf.
-[^20]:Sarah Stierch, “Yellow Milkmaid Syndrome,” Tumblr, March 14, 2017, https://yellowmilkmaidsyndrome.tumblr.com/
+
+[^18]: Martonik, Andrew. “Google Pixel 2 XL Adds New Display Profiles, UI Changes to Address Burn-In.” Android Central, November 7, 2017. https://www.androidcentral.com/pixel-2-xl-adds-boosted-and-saturated-display-profiles-latest-update.
+
+[^19]: Verwayen, Harry, Martijn Arnoldus, and Peter B. Kaufman. “Europeana Whitepaper No. 2: The Problem of the Yellow Milkmaid.” Europeana Pro, November 2011. https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf.
+
+[^20]: Stierch, Sarah, “Yellow Milkmaid Syndrome,” Tumblr, March 14, 2017, https://yellowmilkmaidsyndrome.tumblr.com/
