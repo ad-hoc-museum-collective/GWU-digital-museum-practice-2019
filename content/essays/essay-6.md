@@ -87,11 +87,9 @@ I believe the first step to tackling the hurdles of multilingualism and assessin
 
 Washington, DC itself is a diverse city. Its community is shared with many cultures in which English is not the spoken language. According to DCPRESS, 17% of DC residents speak a language other than English at home and 14% of DC residents were foreign born. DC is also home to many international organizations, companies, international cultural centers and embassies.[^12]
 
-The following is a summary of the data collected from Washington, DC in the 2018 census.[^13]
+The following is a summary of the data collected from Washington, DC in the 2018 Census.[^13]
 
-![Points scored](https://lh5.googleusercontent.com/Tca26nucDFm0PiRRLzB9Jyt1gcQaZoFwU0o5oBCP3_57CX49eJXlTFTc30ZT_rV_avivUl1UguhCnzv4uh_gst0_fkrocf9kXlmjuPF1boXFWp3AIrmqO5ruK9FArEr6QVx40d9q7UTe2m6QEg)
-
-{{< q-figure src="gargia1.png" alt="" caption="" >}}  
+{{< q-figure src="garcia1.png" alt="A pie chart showing the demographic make-up of the Washington, DC, area in the 2018 Census against a white background." caption="A summary of the data collected from Washington, DC in the 2018 Census." >}}  
 
 In 2004, the Smithsonian conducted a museum-wide survey. The survey found that 10% of visitors museum-wide lived outside of the United States. The survey also found that their visitors were becoming more ethnically diverse throughout the years. In 2004, 74% of visitors reported they were non-Latino white, while 82% reported the same in 1994.[^14] The racial identification of visitors varied throughout the different museums. Most interestingly, however, was how visitors who identified themselves as belonging to an ethnic or racial minority rated the relevance of the exhibits in the museums to themselves personally. Eleven percent of minority visitors scored personal relevance to the exhibits as poor or fair.[^15]
 

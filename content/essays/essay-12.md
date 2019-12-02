@@ -36,7 +36,6 @@ Finally, there is the ever-present risk for unforeseeable accidents, such as the
 ### How Does a Site Become Digitized?
 
 There are two main methods by which site digitization projects create their digital models: photogrammetry and LiDAR. Photogrammetry uses photos taken of the site or structure from a variety of angles to generate a 3D digital model. These photos can be taken from a variety of sources (from a smartphone to a high-end camera attached to a drone), but in order to create a rendering of the site, the program needs many photographs from dozens of angles. The highest-quality renderings need 360° coverage of the site or structure, which can take hundreds to thousands to millions of photos to create, depending on the size of the site.[^15] LiDAR, in contrast, uses laser scanning to calculate the distance between a central machine and anywhere from millions to billions of locations throughout the structure, which can then be turned into a digital representation of that structure.[^16] While they can be used separately, if combined, these two techniques can create a 3D model of the site accurate enough to measure the cracks in the bricks of a structure.[^17] These digital objects can be used in a variety of ways, from digital display to 3D printing to structural analysis; the limit is not the data, but rather how people can conceive of using it. The fact that it is digital data, though, means that it requires an interface in order to experience or interact with it in a meaningful way; the gatekeepers stop being those who control access to the physical site, and become those which control access to the digital one.
-<![endif]-->
 
 ## Who Chooses What Gets Saved?
 
@@ -57,7 +56,8 @@ A weakness of both types of projects is their need for vast amounts of data. The
 
 In order to understand the impact site digitization projects can have, it is helpful to examine some existing cases to ask how they get their data, how have they used it and how are they managing it. This paper will therefore explore four case studies, including projects which seek to create digital objects from multiple sites in order to preserve cultural heritage en masse, and those which focus on preserving only a single site, to better understand the state of the field. Like the digitization projects that museums use to digitally record their own collections,[^23] these projects create digital representations of the objects in their care. Through that lens, it is possible to gain insight into how these digital objects might also be treated.
 
-{{< q-figure LD-image-01.jpg="LD-image-01.jpg" alt="A computer-generated image of a complete, intact Temple of Bel on a black background." >}}
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/123ac87bfb1441ae9cc8c8cdd3ca169c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Restorative Projects
 
@@ -83,7 +83,7 @@ While the above projects focus on recording as many cultural heritage sites as t
 
 When looking at what sites are being preserved, it’s important to look at where these sites are located. The distribution of chosen sites prioritizes certain cultures’ heritage. This chart shows the geographic distribution of the sites declared on each project’s website, split into geographical regions.
 
-{{< q-figure LD-image-02.jpg="LD-image-02.jpg" alt="A chart detailing the geographical distribution of digitization projects, split between four main project categories." >}}
+{{< q-figure src="LD-image2.png" alt="A chart detailing the geographical distribution of digitization projects, split between four main project categories." >}}
 
 In sum, it appears that most sites are either where there is easy access for the (predominantly American or European) initial creators of these projects to do their work, or where public outrage over particularly egregious site destructions has encouraged people to participate in these projects. Access is particularly key in creating a 3D object of at least artistic value, let alone one of historic or scientific value; the only way to create a good render of the space is through vast amounts of photographs and data points, after all, and it those require time to be taken accurately. As such, projects like Rekrei and #NEWPALMYRA are limited in what they can create; because they produce models after a site has been destroyed, they are limited by what photographs they can crowdsource – if photography of the site was limited in some way prior to its destruction, then they can only produce a digital object defined by those parameters (such as being placed against a wall).[^36] Conversely, preservative projects tend to coordinate with the site managers to get the data they need, which means the end result is shaped by those managers’ priorities instead.[^37] In either case, the sites that these projects are preserving have a significant bias towards Middle Eastern, European and modern American cultural heritage. While I cannot say for certain the exact reason behind this bias, it still represents a significant discrepancy between these projects’ stated purpose of preserving as much of the world’s cultural heritage as possible, and the realities of what they’re actually preserving.[^38]
 
@@ -106,7 +106,7 @@ The third challenge is making the digital objects sustainable for future generat
 
 While these site digitization projects can be vital in preserving physical cultural heritage, those managing them must be mindful that they are not being run in a way that supports and sustains the impact of colonialism. Colonialism has a long legacy of disenfranchising source communities when authority institutions tell the story of a given object or place;[^46] as such, these projects must be conscious of how they are using and presenting the digital representations of these spaces. For example, the way Western culture conceives of land ownership may run counter to how a source community conceives of their relationship to their physical cultural heritage.[^47] By presenting these sites as something that can be recorded, duplicated and still retain the necessary characteristics to be identified as the site itself, the projects make value judgments as to what aspects of their cultural heritage are valuable and deserve preservation.
 
-What measures can be taken ensure that these projects are conducted in a way that respects the autonomy of these communities? The best way is to integrate their input throughout the entire process; to hold them as valuable stakeholders to consult with throughout the process.[^48] This can mean anything from providing training on current digitization techniques and technology, to embedding cultural protocols into the distribution process of the digital objects to ensure that the way the sites are used is in keeping with the source community’s traditions.[^49] Project Anqa, as mentioned before, trained Syrian professionals to give them the tools they needed to preserve their own cultural heritage in response to the ongoing civil war in their country.[^50] Similarly, Washington State University has partnered with Indigenous Australian communities to create Murkutu[^51] and with Indigenous American ones to create the Plateau Peoples’ Web Portal[^52] to increase their access to the cultural heritage the university and other institutions had in their collections.
+What measures can be taken ensure that these projects are conducted in a way that respects the autonomy of these communities? The best way is to integrate their input throughout the entire process; to hold them as valuable stakeholders to consult with throughout the process.[^48] This can mean anything from providing training on current digitization techniques and technology, to embedding cultural protocols into the distribution process of the digital objects to ensure that the way the sites are used is in keeping with the source community’s traditions.[^49] Project Anqa, as mentioned before, trained Syrian professionals to give them the tools they needed to preserve their own cultural heritage in response to the ongoing civil war in their country.[^50] Similarly, Washington State University has partnered with Indigenous Australian communities to create Mukurtu[^51] and with Indigenous American ones to create the Plateau Peoples’ Web Portal[^52] to increase their access to the cultural heritage the university and other institutions had in their collections.
 
 The most effective practices can vary from case to case; therefore, it’s important to make sure that source communities are consulted whenever possible. Like the sites these projects seek to preserve, time will change their needs and their priorities, and each project should be in line with the community’s most current circumstances. Several of these communities have already begun creating places where they can control their cultural heritage,[^53] but it is the responsibility of those who control the digital space to reach out and bring them into the space they have created.[^54] Since site digitization projects are usually done in collaboration with organizations from outside the source community (or even the digitization project itself) in order to gain access to more resources than they themselves can provide, there is a power imbalance built into the arrangement. To address this, the projects must actively working to provide the means for source communities to take ownership of their own heritage, and ensuring that the goals of other organizations they partner with align with their own.
 
@@ -226,15 +226,15 @@ In summary, throughout the process of digitizing a cultural heritage site each s
 
 [^48]: Sookprasert and Rungcharoensuksri.
 
-[^49]: “Murkutu’s Mission,” Murkutu CMS, accessed April 11, 2019, [https://mukurtu.org/learn/](https://mukurtu.org/learn/).
+[^49]: “Mukurtu’s Mission,” Mukurtu CMS, accessed April 11, 2019, [https://mukurtu.org/learn/](https://mukurtu.org/learn/).
 
 [^50]: “Project Anqa.”
 
-[^51]: “About Murkutu,” Murkutu CMS, accessed April 11, 2019, [https://mukurtu.org/about/](https://mukurtu.org/about/).
+[^51]: “About Mukurtu,” Mukurtu CMS, accessed April 11, 2019, [https://mukurtu.org/about/](https://mukurtu.org/about/).
 
-[^52]: “About Plateau Peoples’ Web Portal,” Murkutu CMS, n.d., [https://plateauportal.libraries.wsu.edu/about](https://plateauportal.libraries.wsu.edu/abou).
+[^52]: “About Plateau Peoples’ Web Portal,” Mukurtu CMS, n.d., [https://plateauportal.libraries.wsu.edu/about](https://plateauportal.libraries.wsu.edu/abou).
 
-[^53]: “About Murkutu”; “About Plateau Peoples’ Web Portal.”
+[^53]: “About Mukurtu”; “About Plateau Peoples’ Web Portal.”
 
 [^54]: Sookprasert and Rungcharoensuksri, “Ethics, Access, and Rights In Anthropological Archive Management: A Case Study From Thailand.”
 
