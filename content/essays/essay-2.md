@@ -97,8 +97,6 @@ The sheer diversity of contributors to *Object Stories* speaks to the initiative
 
 The rise in digital user-generated content in the museum field signifies a fundamental shift in how twenty-first century museums operate. By inviting visitors to actively contribute their lived experiences to exhibition development, museums affirm the value of visitor perspectives in every facet of their work. Museums must respect their visitors, and digital UGC created through recording booths enrich engagement between these two groups in ways impossible without technology. NMAAHC strives to facilitate “a national dialogue on race…[and] foster a spirit of reconciliation and healing” across the country, and its *Reflection Booth* effectively provides visitors a digital and physical platform to do just that.[^39] The Portland Art Museum’s final iteration of *Object Stories* directly echoes NMAAHC’s call to action through its exhibitions focused on social activism within the local community. As the National Museum of African American History and Culture and the Portland Art Museum’s utilization of digital platforms continue to amplify their visitors’ voices, one hopes these conversations around inclusivity and museum visitor participation will continue and encourage more museums to reap the benefits of digital user-generated content.
 
-
-
 ----------
 ## Notes
 

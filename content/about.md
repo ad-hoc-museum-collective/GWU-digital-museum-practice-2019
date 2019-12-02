@@ -20,4 +20,4 @@ All students complete:
 - the graduate writing requirement
 - an oral presentation related to their internship
 
-Throughout the program, students should work with an advisor to ensure that they will meet program requirements and their own career and educational goals.
+Throughout the program, students work with an advisor to ensure that they will meet program requirements and their own career and educational goals.
