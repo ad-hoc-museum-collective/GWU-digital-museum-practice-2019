@@ -42,7 +42,7 @@ Each cone cell is specially configured to react to a specific range of light wav
 
 The goal then, in order to give the viewer of a digitized work of art the most truthful experience, is to have the waves of light emitted from the digital projection, most likely on a computer screen or other similar device, exactly match those that would be reflecting off the original work of art into the viewer’s eye.
 
-{{< q-figure src="CKurtz_eye_with_retina.jpg" alt="Diagram of light entering a human eye and triggering responses in cone and rod cells on the retina" caption="Illustration adapted from Beginning Psychology (v. 1.0) via Creative Commons (by-nc-sa 3.0). [Image Source](https://askabiologist.asu.edu/rods-and-cones)" >}}
+{{< q-figure src="CKurtz_eye_with_retina.png" alt="Diagram of light entering a human eye and triggering responses in cone and rod cells on the retina" caption="Illustration from *Beginning Psychology* (v. 1.0), [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/). [Link](https://2012books.lardbucket.org/pdfs/beginning-psychology.pdf)" >}}
 
 ### Lights: how to improve color
 
