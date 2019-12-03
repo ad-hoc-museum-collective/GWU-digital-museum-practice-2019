@@ -20,11 +20,14 @@ Color is a large and complex phenomenon, so much so that it has its own branch i
 
 Light travels as a wave through space. The wave can be wide or narrow, tall or shallow, and can oscillate slowly or quickly. Each of these traits is measurable and dictates how the wave of light will interact with matter it encounters.
 
-{{< q-figure src="CKurtz_Wave_Animation.gif" alt="Animation of a transverse wave oscillating on the x-axis." caption="[Image Source](https://commons.wikimedia.org/wiki/File:1D-Wave.gif)" >}}
+{{< q-figure src="CKurtz_Wave_Animation.gif" alt="Animation of a transverse wave oscillating on the x-axis." caption="By [And1mu]
+(http://commons.wikimedia.org/w/index.php?title=User:And1mu&action=edit&redlink=1), CC BY-SA 4.0, [Link](https://commons.wikimedia.org/wiki/File:1D-Wave.gif)" >}}
 
 <p><a href="https://commons.wikimedia.org/wiki/File:1D-Wave.gif#/media/File:1D-Wave.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/1D-Wave.gif" alt="1D-Wave.gif"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:And1mu&amp;action=edit&amp;redlink=1" class="new" title="User:And1mu (page does not exist)">And1mu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47889079">Link</a></p>
 
 Wavelength is a measure of the distance between two wave crests. This is the most important measurement when working with color, as each specific wavelength corresponds to a single color within the visible region of the spectrum. Wavelength can vary from less than 10^-12^ meters to over 1,000 meters; the visible region, or that which the typical human eye can perceive, is widely considered to be from 380–740 nanometers.[^1] Within this range color progresses from violet to red as wavelength increases.
+
+{{< q-figure src="CKurtz_EM_Spectrum.png" alt="Chart of the electromagnetic spectrum, with wavelengths of visible light magnified and offset" caption="By Philip Ronan, Gringer - [File:EM spectrum.svg](http://commons.wikimedia.org/wiki/File:EM_spectrum.svg) and [File:Linear visible spectrum.svg](http://commons.wikimedia.org/wiki/File:Linear_visible_spectrum.svg), CC BY-SA 3.0, [Link] (https://en.wikipedia.org/wiki/Electromagnetic_radiation#/media/File:EM_spectrumrevised.png)" >}}
 
 <p><a href="https://commons.wikimedia.org/wiki/File:EM_spectrumrevised.png#/media/File:EM_spectrumrevised.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/EM_spectrumrevised.png/1200px-EM_spectrumrevised.png" alt="EM spectrumrevised.png"></a><br>By Philip Ronan, Gringer - <a href="//commons.wikimedia.org/wiki/File:EM_spectrum.svg" title="File:EM spectrum.svg">File:EM spectrum.svg</a> and <a href="//commons.wikimedia.org/wiki/File:Linear_visible_spectrum.svg" title="File:Linear visible spectrum.svg">File:Linear visible spectrum.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24746679">Link</a></p>
 
@@ -52,7 +55,7 @@ If capturing colors in a photograph can be considered as capturing light, contai
 
 The light should be as unsaturated as possible to allow for the most truthful reflections of the pigments present in the artwork, as color temperature can affect how the camera, and thus the future viewer, will perceive the work of art.[^6] Humans are able to adjust for differences in color temperature when viewing an object in person but cameras lack this problem-solving ability, making it imperative that light sources used in photography be as ideal as possible.
 
-{{< q-figure src="cynthia-horse.jpg" alt="Photos of a horse taken in cool, neutral, and warm temperatures light settings" caption="The same horse was photographed in three different light settings. From left: flourescent (cool), direct sun (cool-neutral), and halogen (warm). The color observed in each scenario varies widely." >}}
+{{< q-figure src="CKurtz_temp.jpg" alt="Photos of a horse taken in cool, neutral, and warm temperatures light settings" caption="The same horse was photographed in three different light settings. From left: flourescent (cool), direct sun (cool-neutral), and halogen (warm). The color observed in each scenario varies widely." >}}
 
 The first consideration must be any sources of natural sunlight, which must be blocked wherever possible. The earth’s atmosphere is most effective at filtering out longer wavelengths of visible light, such as reds and yellows. This causes sunlight to be more saturated in blue wavelengths, giving it a bluish tinge. Changes in atmospheric conditions due to weather or time of day can lead to fluctuations that can be hard to account for and counteract, especially in post-production editing.
 
