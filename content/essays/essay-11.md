@@ -56,8 +56,7 @@ A weakness of both types of projects is their need for vast amounts of data. The
 
 In order to understand the impact site digitization projects can have, it is helpful to examine some existing cases to ask how they get their data, how have they used it and how are they managing it. This paper will therefore explore four case studies, including projects which seek to create digital objects from multiple sites in order to preserve cultural heritage en masse, and those which focus on preserving only a single site, to better understand the state of the field. Like the digitization projects that museums use to digitally record their own collections,[^23] these projects create digital representations of the objects in their care. Through that lens, it is possible to gain insight into how these digital objects might also be treated.
 
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/123ac87bfb1441ae9cc8c8cdd3ca169c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< q-figure id="dickson-sketchfab" >}}
 
 ### Restorative Projects
 

@@ -11,5 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://gettypubs.github.io/quire-starter/" # Needs trailing slash
-canonifyURLs: false
+baseURL: "https://ad-hoc-museum-collective.github.io/GWU-Museum-Digital-Practice-2019" # Needs trailing slash
+canonifyURLs: true
+relativeURLs: true
