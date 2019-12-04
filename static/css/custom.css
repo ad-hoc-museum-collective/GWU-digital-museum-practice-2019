@@ -17,8 +17,6 @@
 @media print {
   .quire-figure.narrow {
     max-width: 3in;
-    margin-left: .167in;
-    float: right;
   }
 }
 

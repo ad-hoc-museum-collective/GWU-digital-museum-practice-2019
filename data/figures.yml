@@ -7,9 +7,9 @@ figure_list:
     media_type: youtube
     media_id: Hrhb6-td1Co
     aspect_ratio: widescreen
-    src: 
+    src: kurtz-video-1.jpg
   - id: kurtz-video-2
     media_type: youtube
     media_id: wrckVlY5vwU
     aspect_ratio: widescreen
-    src: 
+    src: kurtz-video-2.jpg
