@@ -38,7 +38,7 @@ The average human being has nearly 14 million cells dedicated to interpreting co
 
 Each cone cell is specially configured to react to a specific range of light wavelengths. When this appropriate wavelength travels through the eye and hits the retina, the responsible cone cells “light up” and send a signal to the brain, communicating the intensity, relative location, and quality of the color perceived. Slight overlap between the wavelengths of light detected by each cone, and how strongly they react, allows the brain to pinpoint a more specific color.[^4] The more cone cells a person has, the more diverse a range of colors they can perceive, and the greater their ability to discern the difference between two very similar colors. Color-blindness occurs when a person fails to develop cone cells of one or more types, leading to an inability to receive stimulus from those wavelengths of light.[^5]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hrhb6-td1Co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< q-figure id="kurtz-video-1" >}}
 
 The goal then, in order to give the viewer of a digitized work of art the most truthful experience, is to have the waves of light emitted from the digital projection, most likely on a computer screen or other similar device, exactly match those that would be reflecting off the original work of art into the viewer’s eye.
 
@@ -90,7 +90,7 @@ These scenarios are where JPEGs come in. The JPEG file type is a highly compress
 
 Any camera capable of shooting in RAW format can also shoot in JPEG instead. While this may seem like an ideal solution to the storage problems usage of RAW files presents, it comes at a great cost to color accuracy and the ability to fine-tune images. When a camera creates a JPEG file, it makes its own decisions regarding which pixels to keep and which to associate with other pixels. It also accepts the lighting and color conditions of the captured image as fact, removing any extraneous data that don’t fit what the camera has decided were the actual conditions.[^16] This means that a computer tasked with making color adjustments has a lot less information to work with and has to make more “guesses,” which introduces opportunity for error. For these reasons, it is imperative that the RAW file is transmitted from the camera to the computer and *then* converted to a JPEG in order to preserve as much information about the true colors of the image as possible. It is also important to save the RAW file as well, in case later adjustments or corrections must be made or if the compressed file becomes corrupted.[^17]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wrckVlY5vwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< q-figure id="kurtz-video-2" >}}
 
 ### Viewing: how to share color
 

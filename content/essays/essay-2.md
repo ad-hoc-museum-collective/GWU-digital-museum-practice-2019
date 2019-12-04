@@ -142,7 +142,7 @@ The rise in digital user-generated content in the museum field signifies a funda
 
 [^21]: Ravon Ruffin, Interview by Rachel Rosenfeld, Email Exchange, November 20, 2019.
 
-[^22]: “#VisitorVoices – Modern-Day Sharecropper.” _YouTube._ September 11, 2017, [https://www.youtube.com/watch?v=qdJ_r3mEwoo&list=PL9oAGmKpC2PWxudi_OSjeFnZZ7RyM7Fyv&index=3](https://www.youtube.com/watch?v=qdJ_r3mEwoo&list=PL9oAGmKpC2PWxudi_OSjeFnZZ7RyM7Fyv&index=3; “#VisitorVoices – Fight For Freedom,” _YouTube_,  September 12, 2017, [https://www.youtube.com/watch?v=o45QEGEnr98](https://www.youtube.com/watch?v=o45QEGEnr98).
+[^22]: “#VisitorVoices – Modern-Day Sharecropper.” _YouTube._ September 11, 2017, [https://www.youtube.com/watch?v=qdJ_r3mEwoo&list=PL9oAGmKpC2PWxudi_OSjeFnZZ7RyM7Fyv&index=3](https://www.youtube.com/watch?v=qdJ_r3mEwoo&list=PL9oAGmKpC2PWxudi_OSjeFnZZ7RyM7Fyv&index=3); “#VisitorVoices – Fight For Freedom,” _YouTube_,  September 12, 2017, [https://www.youtube.com/watch?v=o45QEGEnr98](https://www.youtube.com/watch?v=o45QEGEnr98).
 
 [^23]: “#VisitorVoices – You Should Take That Risk For Change,” _YouTube_,  September 19, 2017, [https://www.youtube.com/watch?v=XGWFomwl6vU&t=22s](https://www.youtube.com/watch?v=XGWFomwl6vU&t=22s).
 
