@@ -21,3 +21,41 @@
     float: right;
   }
 }
+
+/* Make fixes for PDF output at 6x9 size */
+@media print {
+  .half-title-page {
+    max-width: none;
+  }
+  .title-page {
+    max-width: none;
+    padding-top: 2.25in;
+    padding-left: .75in;
+  }
+  .half-title-page,
+  .title-page {
+    margin-right: .875in;
+  }
+  .title-page .title-tp {
+    font-size: 3.5em;
+  }
+  .title-page .sub-title {
+    font-size: 2.25em;
+  }
+  .title-page .contributor {
+    font-size: 1.5em;
+  }
+  .title-page .publisher {
+    font-size: 1.25em;
+    right: .75in;
+  }
+  .quire-page__header {
+    margin-bottom: .5in;
+  }
+  .quire-page h1, .quire-page__header__title {
+    font-size: 2.5em
+  }
+  .quire-page__content .content .footnotes ol li {
+    margin-bottom: 0;
+  }
+}
