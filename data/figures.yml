@@ -1,0 +1,15 @@
+figure_list:
+  - id: dickson-sketchfab
+    media_type: website
+    media_id: https://sketchfab.com/models/123ac87bfb1441ae9cc8c8cdd3ca169c/embed
+    src: LD-image-01.jpg
+  - id: kurtz-video-1
+    media_type: youtube
+    media_id: Hrhb6-td1Co
+    aspect_ratio: widescreen
+    src: 
+  - id: kurtz-video-2
+    media_type: youtube
+    media_id: wrckVlY5vwU
+    aspect_ratio: widescreen
+    src: 
