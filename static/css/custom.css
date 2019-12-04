@@ -59,3 +59,11 @@
     margin-bottom: 0;
   }
 }
+
+/* Add formatting to code block to wrap long lines (esp. for pdf) */
+.code-block {
+  margin-bottom: 1rem;
+}
+.code-block pre code {
+  white-space: pre-wrap;
+}
