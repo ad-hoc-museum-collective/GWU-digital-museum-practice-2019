@@ -1,3 +1,67 @@
+/* Control the margins of page headers */
 .quire-page__header .hero-body {
-  margin: 0 8rem;
+  margin: 0 2rem;
+}
+@media screen and (min-width: 800px){
+  .quire-page__header .hero-body {
+    margin: 0 8rem;
+  }
+}
+
+/* add class="narrow" to any figure image to make it narrower and centered */
+.quire-figure.narrow {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+@media print {
+  .quire-figure.narrow {
+    max-width: 3in;
+  }
+}
+
+/* Make fixes for PDF output at 6x9 size */
+@media print {
+  .half-title-page {
+    max-width: none;
+  }
+  .title-page {
+    max-width: none;
+    padding-top: 2.25in;
+    padding-left: .75in;
+  }
+  .half-title-page,
+  .title-page {
+    margin-right: .875in;
+  }
+  .title-page .title-tp {
+    font-size: 3.5em;
+  }
+  .title-page .sub-title {
+    font-size: 2.25em;
+  }
+  .title-page .contributor {
+    font-size: 1.5em;
+  }
+  .title-page .publisher {
+    font-size: 1.25em;
+    right: .75in;
+  }
+  .quire-page__header {
+    margin-bottom: .5in;
+  }
+  .quire-page h1, .quire-page__header__title {
+    font-size: 2.5em
+  }
+  .quire-page__content .content .footnotes ol li {
+    margin-bottom: 0;
+  }
+}
+
+/* Add formatting to code block to wrap long lines (esp. for pdf) */
+.code-block {
+  margin-bottom: 1rem;
+}
+.code-block pre code {
+  white-space: pre-wrap;
 }
