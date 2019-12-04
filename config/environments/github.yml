@@ -11,6 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://ad-hoc-museum-collective.github.io/mstd2019-project/" # Needs trailing slash
+baseURL: "https://ad-hoc-museum-collective.github.io/GWU-digital-museum-practice-2019" # Needs trailing slash
 canonifyURLs: true
 relativeURLs: true
