@@ -121,7 +121,7 @@ There can be many disadvantages to using VR in the museum world. It is a costly 
 
 [^27]: Cost taken from Google on November 3, 2019 [https://arvr.google.com/cardboard/get-cardboard/](https://arvr.google.com/cardboard/get-cardboard/)
 
-[^28]: Cost taken from Amazon on November 3, 2019 [https://www.amazon.com/Samsung-Virtual-Reality-Headset-Lightweight/dp/B01L96KA4Y/ref=asc_df_B01L96KA4Y/?tag=hyprod-20&linkCode=df0&hvadid=242021302714&hvpos=1o5&hvnetw=g&hvrand=11002665402732291895&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061285&hvtargid=aud-801381245258:pla-420481171366&psc=1](https://www.amazon.com/Samsung-Virtual-Reality-Headset-Lightweight/dp/B01L96KA4Y/ref=asc_df_B01L96KA4Y/?tag=hyprod-20&linkCode=df0&hvadid=242021302714&hvpos=1o5&hvnetw=g&hvrand=11002665402732291895&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061285&hvtargid=aud-801381245258:pla-420481171366&psc=1)
+[^28]: Cost taken from Amazon on November 3, 2019 [https://www.amazon.com/dp/B01L96KA4Y/ref=cm_sw_r_tw_dp_U_x_Tsx6Db080R2RG](https://www.amazon.com/dp/B01L96KA4Y/ref=cm_sw_r_tw_dp_U_x_Tsx6Db080R2RG)
 
 [^29]: Coates, Charlotte. 2019. “Virtual Reality is a Big Trend in Museums, But What are the Best Examples of Museums Using VR?”
 
