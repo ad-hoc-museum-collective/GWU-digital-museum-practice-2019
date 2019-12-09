@@ -153,7 +153,7 @@ Institutionally, as part of processing the crisis event, the crisis communicatio
 
 [^28]:  Rachel Gonzalez, “Keep the Conversation Going: How Museums Use Social Media to Engage the Public,” *The Museum Scholar* 1, no. 1 (2017), http://articles.themuseumscholar.org/vol1no1gonzalez. (accessed September 14, 2019).
 
-[^29]:  J. Paul Getty Museum (*@GettyMuseum*), "Getty Response to Online Stakeholder," Twitter, October 28, 2019, https://twitter.com/GettyMuseum/status/1188878282881585152.[29]
+[^29]:  J. Paul Getty Museum (*@GettyMuseum*), "Getty Response to Online Stakeholder," Twitter, October 28, 2019, https://twitter.com/GettyMuseum/status/1188878282881585152.
 
 [^30]:  Watt, “Crisis Communications in a Digital World.”
 
