@@ -100,6 +100,7 @@ Table 3. Example of the data from the Tate CSV object file
 
 Now consider the corresponding JSON entry:
 
+{{< q-class "code-block" >}}
 
 ```Javascript
 {
@@ -211,6 +212,8 @@ Now consider the corresponding JSON entry:
  "width": "343"
 }
 ```
+ 
+{{< /q-class >}}
 
 As you can see, this is far more difficult to read and not as easily understood. However, while it contains the same metadata elements that appear in the columns of the CSV spreadsheets, it also contains additional “descriptive” elements. In this case there are also fields that describe actions associated with the artwork with values such as: “actions: postures and motions"; "hand/hands raised"; "standing"; "looking / watching".
 
