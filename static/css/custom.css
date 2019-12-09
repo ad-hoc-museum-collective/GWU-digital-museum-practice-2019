@@ -72,3 +72,10 @@
     display: none;
   }
 }
+
+/* Keep names and bios together on a page */
+@media print {
+  .quire-contributor {
+    page-break-inside: avoid;
+  }
+}
