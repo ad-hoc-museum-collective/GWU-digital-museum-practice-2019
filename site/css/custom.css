@@ -65,3 +65,17 @@
 .code-block pre code {
   white-space: pre-wrap;
 }
+
+/* Fix issue with small black box appearing on image */
+@media print {
+  .quire-figure .q-figure__wrapper span.fig {
+    display: none;
+  }
+}
+
+/* Keep names and bios together on a page */
+@media print {
+  .quire-contributor {
+    page-break-inside: avoid;
+  }
+}
