@@ -6,7 +6,7 @@ weight: 42
 type: essay
 class:
 contributor:
-  - id:
+  - id: rbrockette
 abstract: |
 
 ---
