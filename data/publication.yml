@@ -135,14 +135,14 @@ contributor:
     url:
     pic: contributors/sydney-thatcher.jpg
   - id: ldickson
-    type:  primary
+    type: primary
     first_name: Laura
     last_name: Dickson
     bio: "Laura Dickson is a Museum Education graduate student at George Washington University. She earned her B.A. in Anthropology with an archaeology focus from the University of California, Davis. She is dedicated to promoting diversity in the museum field, through inclusive management, collections and programs. Connect on [Twitter](https://twitter.com/LauraDicksonMEP) or [email](mailto:lmdickson92@gmail.com)."
     url:
     pic: contributors/LD-image-03.jpg
   - id: rbrockette
-    type:  primary
+    type: primary
     first_name: Rebecca
     last_name: Brockette
     bio: "Rebecca Brockette is currently a first year graduate student at the George Washington University in the Museum Studies Program. She earned her undergraduate degree at the University of North Texas in history and anthropology. [Twitter](https://twitter.com/rbrockette23) | [Email](mailto:beckybrockette@gmail.com)"
