@@ -4,7 +4,6 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const autoprefixer = require('autoprefixer');
-const CleanWebpackPlugin = require('clean-webpack-plugin')
 const ImageminPlugin = require("imagemin-webpack");
 const imageminGifsicle = require("imagemin-gifsicle");
 const imageminJpegtran = require("imagemin-jpegtran");
@@ -135,7 +134,6 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: 'css/application.css'
     }),
-    new CleanWebpackPlugin(pathsToClean, cleanOptions),
     new webpack.ProvidePlugin({
       $: 'jquery',
       jQuery: 'jquery',
